@@ -42,10 +42,10 @@ Testy przeprowadzono na zbiorach danych UCI: **Breast Cancer Wisconsin**  oraz *
 * **`docs/`** – Dokumentacja projektowa i sprawozdanie PDF.
 * **`requirements.txt`** – wymagane biblioteki.
 
-## 📜 Licencja
+## 📄 Licencja
 Projekt jest udostępniony na licencji MIT. Szczegóły w pliku [LICENSE](LICENSE).
 
-## 👨‍💻 Autorzy
+## 👥 Autorzy
 * **Dominik Bijoch**
 * **Michał Dobrowolski**
 
